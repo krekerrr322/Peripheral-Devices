@@ -1,0 +1,23 @@
+# Пропозиція: Збірка ПК для роботи та ігор (Бюджет до 60 000 грн)
+
+**Постачальник:** [Neo-Service](https://neoservice.ua/)  
+**Дата формування:** 06.03.2026  
+**Загальна вартість:** 59 986,73 грн  
+
+## Деталізація замовлення
+
+| Комплектуюча | Виробник та Модель | Кількість | Ціна за шт. (грн) | Сума (грн) | Фото |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| **Процесор** | AMD Ryzen 7 5700X (8C/16T, 3.4-4.6GHz, 65W, Tray, sAM4) | 1 | 7 688.65 | 7 688.65 | <img src="https://img.icons8.com/color/48/processor.png" alt="CPU" width="48"/> |
+| **Охолодження** | DeepCool AK620 (TDP 260W) | 1 | 2 966.57 | 2 966.57 | <img src="https://img.icons8.com/color/48/fan.png" alt="Cooler" width="48"/> |
+| **Материнська плата** | Asus TUF GAMING B450M-PLUS II (Socket AM4) | 1 | 4 100.99 | 4 100.99 | <img src="https://img.icons8.com/color/48/motherboard.png" alt="Mobo" width="48"/> |
+| **Оперативна пам'ять** | Kingston FURY Beast DDR4 8GB 3200MHz | 2 | 3 421.22 | 6 842.44 | <img src="https://img.icons8.com/color/48/memory-slot.png" alt="RAM" width="48"/> |
+| **Відеокарта** | Asus Dual OC GeForce RTX 5050 8GB GDDR6 | 1 | 15 417.60 | 15 417.60 | <img src="https://img.icons8.com/color/48/video-card.png" alt="GPU" width="48"/> |
+| **Накопичувач (SSD)** | Goodram CL100 gen.3 960GB 2.5" (SATA 6Gb/s) | 1 | 5 577.06 | 5 577.06 | <img src="https://img.icons8.com/color/48/ssd.png" alt="SSD" width="48"/> |
+| **Блок живлення** | GameMax RGB 850 PRO 850W (80 Gold, ARGB ring) | 1 | 4 532.86 | 4 532.86 | <img src="https://img.icons8.com/color/48/power-supply.png" alt="PSU" width="48"/> |
+| **Корпус** | Cougar AIRFACE PRO RGB (Full-Tower, 3*120mm ARGB) | 1 | 4 317.37 | 4 317.37 | <img src="https://img.icons8.com/color/48/computer.png" alt="Case" width="48"/> |
+| **Монітор** | Acer 27" VG272 2K (IPS, 2560x1440, 180Hz, HDMI/DP) | 1 | 8 543.19 | 8 543.19 | <img src="https://img.icons8.com/color/48/monitor--v1.png" alt="Monitor" width="48"/> |
+| **РАЗОМ** | | | | **59 986.73** | |
+
+## Висновки щодо сумісності
+Усі компоненти апаратно сумісні між собою. Блок живлення на 850W забезпечує надійну роботу для RTX 5050 та процесора Ryzen 7, а потужний кулер DeepCool AK620 легко впорається з тепловіддачею процесора. Корпус Full-Tower дозволить зручно розмістити всі компоненти та забезпечить хорошу вентиляцію.
